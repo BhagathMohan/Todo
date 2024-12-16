@@ -2,7 +2,7 @@
 
 An open source application built using [Next.js 14](https://nextjs.org/).
 
-[Deploy link](https://nextjs-14-todo.vercel.app/)
+[Deploy link](https://nextjs-14-todo.vercel22.app/)
 
 ## Features
 
