@@ -1,4 +1,4 @@
-# Yet another ToDo
+# ToDo Application
 
 An open source application built using [Next.js 14](https://nextjs.org/).
 
